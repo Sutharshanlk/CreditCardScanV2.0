@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">OCR CC Scan</string>
+
+    <!-- Credit Card Strings-->
+    <string name="expDate"> Card Expiry </string>
+    <string name="cardHolderName"> Cardholder Name</string>
+    <string name="cardNumber"> Card Number</string>
+    <string name="cartType">Card Type</string>
+    <string name="cardAmount"> Amount</string>
+    <string name="cvv">Card Verification Value</string>
+    <string name="passportNumber"> Passport/Reference Number</string>
+    <string name="scan_card_link">Scan Card With Camera</string>
+
+
+
+    <string name="flt_infp_btn_text">Next</string>
+</resources>
